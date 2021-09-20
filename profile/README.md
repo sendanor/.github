@@ -21,3 +21,7 @@ Check our homepage: https://sendanor.com
 | Quarted year (450 h) | 31 320 €      | 58 725 €      | 82 215 €          |
 | Half year (900 h)    | 61 200 €      | 114 750 €     | 160 650 €         |
 | Year (1650 h)        | 105 600 €     | 198 000 €     | 277 200 €         |
+
+# Contact
+
+You can reach us at [Zendesk](https://sendanor.zendesk.com) or by email [info@sendanor.com](mailto:info@sendanor.com).
