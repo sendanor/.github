@@ -8,9 +8,14 @@ We also believe in open source and most of our components are available from Git
 
 ## Our development plans
 
-| Plans  | 1 Developer  | 2 developers | 3 developer team |
-| ----- | ------------ | ------------ | ---------------- |
-| Hour-based  | 80 €         | 150          | 210              |
-| Day-based   | 620 €        | 1100         | 1600             |
-| Week-based  | 3000 €       | 5000         | 7500             |
-| Month-based | 10000 €      | 16000        | 21000            |
+*Note!* These prices are only the starting point for negotiations.
+
+| Plans        | 1 Developer   | 2 developers  | 3 developer team  |
+| ------------ | ------------- | ------------- | ----------------- |
+| Hour         | 80 €          | 150           | 210               |
+| Day          | 540 €         | 1 013         | 1 418             |
+| Week         | 2 670 €       | 5 000         | 7 000             |
+| Month        | 10 560 €      | 19 800        | 27 720            |
+| Quarted year | 31 320 €      | 58 725        | 82 215            |
+| Half year    | 61 200 €      | 114 750       | 160 650           |
+| Year         | 105 600 €     | 198 000       | 277 200           |
