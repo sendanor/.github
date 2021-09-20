@@ -6,11 +6,11 @@ Our speciality is in a quality development using ReactJS, NodeJS and TypeScript,
 
 We also believe in open source and most of our components are available from Github with a MIT license.
 
-## Our development fees
+## Our development plans
 
-| Plan  | 1 Developer  | 2 developers | 3 developer team |
+| Plans  | 1 Developer  | 2 developers | 3 developer team |
 | ----- | ------------ | ------------ | ---------------- |
-| Hour  | 80 €         | 150          | 210              |
-| Day   | 620 €        | 1100         | 1600             |
-| Week  | 3000 €       | 5000         | 7500             |
-| Month | 10000 €      | 16000        | 21000            |
+| Hour-based  | 80 €         | 150          | 210              |
+| Day-based   | 620 €        | 1100         | 1600             |
+| Week-based  | 3000 €       | 5000         | 7500             |
+| Month-based | 10000 €      | 16000        | 21000            |
