@@ -6,6 +6,8 @@ Our speciality is in a quality development using ReactJS, NodeJS and TypeScript,
 
 We also believe in open source and most of our components are available from Github with a MIT license.
 
+Check our homepage: https://sendanor.com
+
 ## Our development plans
 
 *Note!* These prices are only the starting point for negotiations.
