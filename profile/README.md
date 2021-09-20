@@ -10,7 +10,7 @@ Check our homepage: https://sendanor.com
 
 ## Our development plans
 
-*Note!* These prices are only the starting point for negotiations.
+*Note!* These plans are only a starting point for negotiations.
 
 | Plans                | 1 Developer   | 2 developers  | 3 developer team  |
 | -------------------- | ------------- | ------------- | ----------------- |
