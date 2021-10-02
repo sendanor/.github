@@ -6,8 +6,6 @@ Our speciality is in a quality web development using ReactJS, NodeJS and TypeScr
 
 We also believe in open source and most of our components are available from Github with a MIT license.
 
-Check our homepage: https://sendanor.com
-
 ## Development plans
 
 ### Flexible development plans
