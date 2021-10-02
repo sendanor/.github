@@ -12,7 +12,8 @@ We also believe in open source and most of our components are available from Git
 
 | Hourly Plan          | 1 Developer   | 2 developers  | 3 developer team  |
 | -------------------- | ------------- | ------------- | ----------------- |
-| Hour                 | 75 €          | 140 €         | 210 €             |
+| Senior, Hour         | 75 €          | 140 €         | 210 €             |
+| Junior, Hour         | 60 €          | -             | -                 |
 
 Hourly paid development will be billed at the end of every month with 14 days payment days.
 
