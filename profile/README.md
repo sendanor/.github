@@ -8,19 +8,26 @@ We also believe in open source and most of our components are available from Git
 
 Check our homepage: https://sendanor.com
 
-## Our development plans
+## Development plans
 
-*Note!* These plans are only a starting point for negotiations.
+### Flexible development plans
 
-| Plans                | 1 Developer   | 2 developers  | 3 developer team  |
+| Hourly Plan          | 1 Developer   | 2 developers  | 3 developer team  |
 | -------------------- | ------------- | ------------- | ----------------- |
-| Hour                 | 80 €          | 150 €         | 210 €             |
-| Day (7.5 h)          | 540 €         | 1 013 €       | 1 418 €           |
-| Week (37.5 h)        | 2 670 €       | 5 000 €       | 7 000 €           |
-| Month (150 h)        | 10 560 €      | 19 800 €      | 27 720 €          |
-| Quarted year (450 h) | 31 320 €      | 58 725 €      | 82 215 €          |
-| Half year (900 h)    | 61 200 €      | 114 750 €     | 160 650 €         |
-| Year (1650 h)        | 105 600 €     | 198 000 €     | 277 200 €         |
+| Hour                 | 75 €          | 140 €         | 210 €             |
+
+Hourly paid development will be billed at the end of every month with 14 days payment days.
+
+### Fixed development plans
+
+| Fixed Plan    | hours/developer  | 1 Developer   | 2 developers  | 3 developer team  |
+| ------------- | ---------------- | ------------- | ------------- | ----------------- |
+| Monthly       | ~155 h           | 11 315 €      | 20 925 €      | 31 775 €          |
+| Quarted year  | ~450 h           | 31 320 €      | 58 725 €      | 82 215 €          |
+| Half year     | ~900 h           | 61 200 €      | 114 750 €     | 160 650 €         |
+| Year          | ~1650 h          | 105 600 €     | 198 000 €     | 277 200 €         |
+
+Billed at the start of each period with 14 days payment days.
 
 # Contact
 
